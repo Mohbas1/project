@@ -6,7 +6,7 @@
 - Khalid Noor Aldeen Al Sudani - 44411174
 - Mohammed Musaad Al Luhaybi - 44410221
 - Mohammed Adel Basulaiman - 44411520
-- Ahmed Bandar Abdel Baqi - 444001239
+- Ahmed Bandar Abdul Baqi - 444001239
 
 ## Introduction
 The **Movie Ticket Booking System** is designed to provide a convenient online platform for customers to book cinema tickets. It automates the ticketing process, reducing the need for staff intervention after the data has been entered into the database.
